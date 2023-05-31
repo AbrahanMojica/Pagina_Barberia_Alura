@@ -1,0 +1,14 @@
+ALFABETOS
+A,B,C,D,E....
+0,1,2,3,4,5,6,7,8,97
+0,1
+0,1,2,3,4,5,6,7,8,9,A,B,C,D,E,F
+
+ _ _ _ _ _ _
+ R R G G B B
+NEGRO
+#000000
+BLANCO
+#FFFFFF
+ROJO
+#FF0000

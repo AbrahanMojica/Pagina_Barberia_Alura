@@ -1,0 +1,67 @@
+p{
+    color:white;
+    text-align: center;
+    background:#000000 ;
+}
+.titulo-principal{
+
+    padding-left: 30px;
+    color:white;
+    
+}
+#banner{
+
+    width: 100%;
+}
+body{
+
+    background: #000000 ;
+
+}
+.principal{
+
+    background:#000000 ;
+    padding: 20px;
+    color:white;
+}
+
+.titulo-centralizado{
+
+    text-align: center;
+}
+em strong{/* la etiqueta que esta dentro de em es como si fuera una ruta*/
+
+    color:red  ;
+}
+#mision{
+
+    font-size: 20px;
+}
+
+.Diferenciales{
+
+ background:#000000  ; 
+ padding: 30px;  
+ color:white
+}
+
+
+.items{
+
+    font-style: italic;
+    
+}
+ul{
+
+    display: inline-block;
+    vertical-align: top;
+    width:20%;
+    margin-right: 15%;
+}
+.imagenDiferenciales{
+    width:50%;
+
+}
+
+
+
